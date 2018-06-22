@@ -12,6 +12,11 @@ form {
   font-size: 16px;
 }
 
+.div_ko {
+	font-family: 'Nanum Gothic', serif;
+	font-size:18px;
+}
+
 .p_ko {
 	font-family: 'Nanum Gothic', serif;
 	font-size:20px;
@@ -28,4 +33,10 @@ form {
 .p_ko_sung{
   font-family: 'Yeon Sung', cursive;
   font-size:20px;
+}
+
+.p_ko_alt {
+  font-family: 'Nanum Gothic', serif;
+  font-size: 15px;
+  /* color: #996633; */
 }
