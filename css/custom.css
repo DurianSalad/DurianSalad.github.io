@@ -16,3 +16,16 @@ form {
 	font-family: 'Nanum Gothic', serif;
 	font-size:20px;
 }
+.jeju {
+  font-family: 'Jeju Gothic', serif;
+}
+
+.jeju-small {
+  font-family: 'Jeju Gothic';
+  font-size: 16px;
+}
+
+.p_ko_sung{
+  font-family: 'Yeon Sung', cursive;
+  font-size:20px;
+}
