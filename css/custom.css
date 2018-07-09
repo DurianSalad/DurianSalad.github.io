@@ -16,3 +16,31 @@ form {
 	font-family: 'Nanum Gothic', serif;
 	font-size:20px;
 }
+
+.p_ko1
+{
+  font-family: 'Yeon Sung', cursive, light;
+	font-size: 20px;
+}
+
+.p_ko_sung{
+  font-family: 'Yeon Sung', cursive;
+  font-size:20px;
+}
+
+.p_ko_sung2{
+  font-family: 'Song Myung', serif;
+  font-size:30px;
+}
+
+.p_ko_han {
+  font-family: 'Black Han Sans', sans-serif;
+  font-size:30px;
+
+}
+
+.h1_ko
+{
+  font-family: 'Yeon Sung', cursive, light;
+	font-size: 40px;
+}
